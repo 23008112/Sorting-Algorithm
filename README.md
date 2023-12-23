@@ -57,7 +57,9 @@ print(list_of_nums)
 ```
 
 ## Output:
+![Screenshot 2023-12-24 030739](https://github.com/23008112/Sorting-Algorithm/assets/138972470/4883feef-4f59-4338-8169-820159cfa301)
 
+![Screenshot 2023-12-24 030800](https://github.com/23008112/Sorting-Algorithm/assets/138972470/2bde2459-4565-4f1e-83b5-50b7feb6ee39)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
